@@ -27,7 +27,9 @@ Jira/Confluence/Backlog/Adobe XD/Git/GitHub/OWASP ZAP/VirtualBox
 ## 作成したもの
 1. 天気APIを用いた気象情報サイト
 サイトへのリンクは[こちら]()
+
 GitHubへのリンクは[こちら](https://github.com/takumi98/quelcode-js/tree/feature/js-challenge1)
+
 2. 既存の静的ページの模写
 サイトへのリンクは[こちら]
 GitHubへのリンクは[こちら]()
