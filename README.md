@@ -16,13 +16,11 @@ HTML5/CSS3/PHP7.2/Laravel6/JavaScript/jQuery/MySQL5.7
 Jira/Confluence/Backlog/Adobe XD/Git/GitHub/OWASP ZAP/VirtualBox
 
 ## 2.制作物
-タイトル
-画像
-サイト情報
-### <概要>
-検索可能な、書籍登録サイトの個人開発を行った。
-### <ツール/環境/言語>
-- Jira/Confluence/Figma/Git/GitHub
+### 技術書登録アプリ
+![image](https://user-images.githubusercontent.com/68890733/130907379-e0ef24a6-fc3b-41ce-be5c-b3a65f960f03.png)
+</br>個人開発で作成したアプリです。自分の学習記録と、振り返りやすいように検索機能をつけました。
+</br>未完成な部分がありますが、基本的なCRUD機能は実装済みです。
+</br>GitHubへのリンクは[こちら](https://github.com/takumi98/EngineerBookshelf)
 
 ## 作成したもの
 <dl>
